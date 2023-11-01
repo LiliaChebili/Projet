@@ -1,2 +1,2 @@
 # Projet
-c'est la description de mon projet 
+c'est la description de mon projet.
